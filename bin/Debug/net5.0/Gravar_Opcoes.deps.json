@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Gravar_Opcoes/1.0.0": {
+        "runtime": {
+          "Gravar_Opcoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gravar_Opcoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

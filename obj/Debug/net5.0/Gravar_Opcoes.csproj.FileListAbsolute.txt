@@ -1,0 +1,16 @@
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\bin\Debug\net5.0\Gravar_Opcoes.exe
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\bin\Debug\net5.0\Gravar_Opcoes.deps.json
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\bin\Debug\net5.0\Gravar_Opcoes.runtimeconfig.json
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\bin\Debug\net5.0\Gravar_Opcoes.runtimeconfig.dev.json
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\bin\Debug\net5.0\Gravar_Opcoes.dll
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\bin\Debug\net5.0\ref\Gravar_Opcoes.dll
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\bin\Debug\net5.0\Gravar_Opcoes.pdb
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\obj\Debug\net5.0\Gravar_Opcoes.csproj.AssemblyReference.cache
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\obj\Debug\net5.0\Gravar_Opcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\obj\Debug\net5.0\Gravar_Opcoes.AssemblyInfoInputs.cache
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\obj\Debug\net5.0\Gravar_Opcoes.AssemblyInfo.cs
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\obj\Debug\net5.0\Gravar_Opcoes.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\obj\Debug\net5.0\Gravar_Opcoes.dll
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\obj\Debug\net5.0\ref\Gravar_Opcoes.dll
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\obj\Debug\net5.0\Gravar_Opcoes.pdb
+C:\Users\Luiz Eduardo\Documents\ProjetosDev\Gravar_Opcoes\obj\Debug\net5.0\Gravar_Opcoes.genruntimeconfig.cache
